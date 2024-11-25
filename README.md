@@ -1,4 +1,4 @@
-# Privacy Policy for Simple Sync
+# Privacy Policy
 
 **Effective Date:** November 24, 2024  
 
