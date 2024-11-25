@@ -101,17 +101,13 @@ This App is not intended for users under 18 years of age. If you believe a minor
 
 ---
 
-## 9. International Data Transfers  
-If you are located outside [Insert Country of Business Operations], your data may be processed in [Insert Country]. We ensure such transfers comply with applicable data protection laws.  
 
----
-
-## 10. Updates to This Policy  
+## 9. Updates to This Policy  
 We may update this Privacy Policy periodically. Updates will be posted on this page with a revised effective date. Continued use of the App after updates constitutes your acceptance.  
 
 ---
 
-## 11. Contact Us  
+## 10. Contact Us  
 If you have questions or concerns about this Privacy Policy, contact us at:  
 
 **Email:** info@simplesync.ca  
